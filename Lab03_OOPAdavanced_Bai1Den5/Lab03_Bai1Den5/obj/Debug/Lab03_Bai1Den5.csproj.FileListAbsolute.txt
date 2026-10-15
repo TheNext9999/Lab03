@@ -1,0 +1,7 @@
+D:\BT Classroom Lab\Lab03\Lab03_OOPAdavanced_Bai1Den5\Lab03_Bai1Den5\bin\Debug\Lab03_Bai1Den5.exe.config
+D:\BT Classroom Lab\Lab03\Lab03_OOPAdavanced_Bai1Den5\Lab03_Bai1Den5\bin\Debug\Lab03_Bai1Den5.exe
+D:\BT Classroom Lab\Lab03\Lab03_OOPAdavanced_Bai1Den5\Lab03_Bai1Den5\bin\Debug\Lab03_Bai1Den5.pdb
+D:\BT Classroom Lab\Lab03\Lab03_OOPAdavanced_Bai1Den5\Lab03_Bai1Den5\obj\Debug\Lab03_Bai1Den5.csproj.AssemblyReference.cache
+D:\BT Classroom Lab\Lab03\Lab03_OOPAdavanced_Bai1Den5\Lab03_Bai1Den5\obj\Debug\Lab03_Bai1Den5.csproj.CoreCompileInputs.cache
+D:\BT Classroom Lab\Lab03\Lab03_OOPAdavanced_Bai1Den5\Lab03_Bai1Den5\obj\Debug\Lab03_Bai1Den5.exe
+D:\BT Classroom Lab\Lab03\Lab03_OOPAdavanced_Bai1Den5\Lab03_Bai1Den5\obj\Debug\Lab03_Bai1Den5.pdb
