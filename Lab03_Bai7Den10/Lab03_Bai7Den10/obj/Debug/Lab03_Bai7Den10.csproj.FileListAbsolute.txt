@@ -1,0 +1,7 @@
+D:\BT Classroom Lab\Lab03\Lab03_Bai7Den10\Lab03_Bai7Den10\obj\Debug\Lab03_Bai7Den10.csproj.AssemblyReference.cache
+D:\BT Classroom Lab\Lab03\Lab03_Bai7Den10\Lab03_Bai7Den10\obj\Debug\Lab03_Bai7Den10.csproj.CoreCompileInputs.cache
+D:\BT Classroom Lab\Lab03\Lab03_Bai7Den10\Lab03_Bai7Den10\bin\Debug\Lab03_Bai7Den10.exe.config
+D:\BT Classroom Lab\Lab03\Lab03_Bai7Den10\Lab03_Bai7Den10\bin\Debug\Lab03_Bai7Den10.exe
+D:\BT Classroom Lab\Lab03\Lab03_Bai7Den10\Lab03_Bai7Den10\bin\Debug\Lab03_Bai7Den10.pdb
+D:\BT Classroom Lab\Lab03\Lab03_Bai7Den10\Lab03_Bai7Den10\obj\Debug\Lab03_Bai7Den10.exe
+D:\BT Classroom Lab\Lab03\Lab03_Bai7Den10\Lab03_Bai7Den10\obj\Debug\Lab03_Bai7Den10.pdb
